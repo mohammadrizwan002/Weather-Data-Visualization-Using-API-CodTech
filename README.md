@@ -23,6 +23,8 @@ Files Included
 Output
 The project generates a line chart showing the hourly temperature forecast for the selected city. It uses clean visualization with proper labels, legends, and layout.
 
+![Image](https://github.com/user-attachments/assets/688fa169-be51-4d44-a6f5-cd4a2ef1338c)
+
 ## Completed By
 Mohammad Rizwan  
 CodTech Python Internship – Task 1
